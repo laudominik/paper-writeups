@@ -5,3 +5,4 @@ I've observed that my long term memory cannot comprehend the amount of data pres
 paper|first author|doi|link
 --|--|--|--
 Extracting training data from diffusion models|Nicholas Carlini|10.5555/3620237.3620531| [go to](./writeups/diffusion_data_extraction.md)
+LLM Dataset Inference: Did you train on my dataset?|Pratyush Maini, Hengrui Jia|10.5555/3737916.3741857| [go to](./writeups/did_you_train_on_my_dataset.md)
